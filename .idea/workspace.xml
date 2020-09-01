@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb28ade2-8131-43c1-b533-12511c0519e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstname_female.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstname_males.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lastnames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/data_access/NameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/domain/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/fileIO/CSVReader_Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se/lexicon/exceptions/workshop/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1guHK2ruohZapY6RqXiisZk9wgs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+</project>
