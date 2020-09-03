@@ -3,16 +3,45 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb28ade2-8131-43c1-b533-12511c0519e7" name="Default Changelist" comment="">
+    <list default="true" id="fb28ade2-8131-43c1-b533-12511c0519e7" name="Default Changelist" comment="Methods written for CSVReader_Writer">
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/exceptions/DuplicateNameException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstname_female.txt" beforeDir="false" afterPath="$PROJECT_DIR$/firstname_female.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstname_males.txt" beforeDir="false" afterPath="$PROJECT_DIR$/firstname_males.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lastnames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lastnames.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/fileIO/CSVReader_Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/fileIO/CSVReader_Writer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/data_access/NameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/exceptions/workshop/data_access/NameService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,33 +100,59 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1598957832745</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Methods written for CSVReader_Writer">
+      <created>1599122381196</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1599122381196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Methods written for CSVReader_Writer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods written for CSVReader_Writer" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1599121664987">
+    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1599123678322">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599121664987" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1599121664987">
+    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1599123678322" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1599133293896">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599121664987" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1599121664986">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599133293896" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1599133293896">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599121664986" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1599121664987">
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599133293896" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1599133293895">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599121664987" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599133293895" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1599133293896">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599133293896" />
     <state x="1127" y="148" key="SettingsEditor" timestamp="1599039064019">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1127" y="148" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1599039064019" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1599122390749">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1599122390749" />
   </component>
 </project>
